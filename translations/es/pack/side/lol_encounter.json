@@ -208,7 +208,7 @@
         "flavor": "Mientras continúas por las salas, encuentras musgo, moho y enredaderas recubriendo las paredes y el suelo.",
         "name": "Salas laberínticas",
         "subname": "Camino invadido por vegetación",
-        "text": "[action] [action]: Te miras en un espejo cubierto de plantas y ves un reflejo desconocido. Al final de la ronda, elige a otro investigador de cualquier grupo. Ese investigador puede realizar 2 acciones adicionales durante su siguiente turno. Límite de grupo de una ver por partida.",
+        "text": "[action][action]: Te miras en un espejo cubierto de plantas y ves un reflejo desconocido. Al final de la ronda, elige a otro investigador de cualquier grupo. Ese investigador puede realizar 2 acciones adicionales durante su siguiente turno. Límite de grupo de una ver por partida.",
         "back_flavor": "Este extraño complejo industrial está lleno de salas de acero ondulado y hormigón. Las numerosas puertas cerradas con llave y callejones sin salida hacen que te invada la sensación de que jamás lograrás escapar."
     },
     {

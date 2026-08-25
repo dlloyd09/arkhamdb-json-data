@@ -245,7 +245,7 @@
     {
         "code": "12137",
         "name": "Znamie Elokoss",
-        "text": "<b>Odkrycie</b> - Umieść Znamię Elokoss w grze, w twoim obszarze zagrożenia.\n<b>Wymuszony</b> - Koniec twojej tury: otrzymujesz 1 obrażenie. Przypisz to obrażenie atutowi, który kontrolujesz, jeśli to możliwe.\n[action] [action]: Odrzuć Znamię Elokoss.",
+        "text": "<b>Odkrycie</b> - Umieść Znamię Elokoss w grze, w twoim obszarze zagrożenia.\n<b>Wymuszony</b> - Koniec twojej tury: otrzymujesz 1 obrażenie. Przypisz to obrażenie atutowi, który kontrolujesz, jeśli to możliwe.\n[action][action]: Odrzuć Znamię Elokoss.",
         "traits": "Klątwa."
     },
     {

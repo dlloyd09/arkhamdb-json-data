@@ -25,7 +25,7 @@
     {
         "code": "60404",
         "name": "Nichilismo",
-        "text": "<b>Rivelazione</b> – Metti in gioco il Nichilismo nella tua area di minaccia.\n<b>Obbligo</b> – Dopo che hai rivelato, annullato o ignorato un segnalino [auto_fail]: Subisci 1 danno e 1 orrore.\n[action] [action]: Scarta il Nichilismo.",
+        "text": "<b>Rivelazione</b> – Metti in gioco il Nichilismo nella tua area di minaccia.\n<b>Obbligo</b> – Dopo che hai rivelato, annullato o ignorato un segnalino [auto_fail]: Subisci 1 danno e 1 orrore.\n[action][action]: Scarta il Nichilismo.",
         "traits": "Follia."
     },
     {

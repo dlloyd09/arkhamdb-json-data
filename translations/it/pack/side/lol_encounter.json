@@ -208,7 +208,7 @@
         "flavor": "Le pareti e i pavimenti di questi corridoi sono ricoperti di muschio, muffa e rampicanti.",
         "name": "Corridoio Labirintico",
         "subname": "Percorso della Vegetazione",
-        "text": "[action] [action]: Sbirciando oltre uno specchio gigantesco, noti un riflesso insolito. Alla fine del round, scegli un altro investigatore di un qualsiasi gruppo. Quell'investigatore può effettuare 2 azioni aggiuntive durante il suo turno successivo. (Limite di una volta in totale per partita.)",
+        "text": "[action][action]: Sbirciando oltre uno specchio gigantesco, noti un riflesso insolito. Alla fine del round, scegli un altro investigatore di un qualsiasi gruppo. Quell'investigatore può effettuare 2 azioni aggiuntive durante il suo turno successivo. (Limite di una volta in totale per partita.)",
         "back_flavor": "Questo strano complesso industriale è composto da lunghi corridoi di acciaio corrugato e di cemento. Le molte porte chiuse a chiave e i vicoli ciechi fanno temere che non sarà facile trovare la via d'uscita."
     },
     {

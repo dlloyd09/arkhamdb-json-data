@@ -19,7 +19,7 @@
         "flavor": "Drzwi do twojego gabinetu zniknęły, zostawiając po sobie przejście do innej części domu.",
         "name": "Gabinet",
         "subname": "Nienaturalne przejście",
-        "text": "[action] [action]:  Dobierz 3 karty. Tylko główny badacz może aktywować tę zdolność.<br/><b>Wymuszony</b> - Kiedy wróg podejmuje próbę rozstawienia w lokalizacji, której nie ma w grze: umieść daną lokalizację w grze i rozstaw w niej danego wroga.",
+        "text": "[action][action]:  Dobierz 3 karty. Tylko główny badacz może aktywować tę zdolność.<br/><b>Wymuszony</b> - Kiedy wróg podejmuje próbę rozstawienia w lokalizacji, której nie ma w grze: umieść daną lokalizację w grze i rozstaw w niej danego wroga.",
         "back_flavor": " Już od kilku dni badasz dziwne zdarzenia mające miejsce w Arkham. Biurko zasłane jest artykułami z gazet, policyjnymi raportami i zeznaniami świadków."
     },
     {

@@ -208,7 +208,7 @@
         "flavor": "As you continue through the halls, you find moss, mold and ivy creeping along the walls and floor.",
         "name": "미궁 복도",
         "subname": "높다란 통로",
-        "text": "[action] [action]: You peer through an overgrown mirror and see an unfamiliar reflection. At the end of the round, choose another investigator in any group. That investigator may take 2 additional actions during his or her next turn. (Group limit once per game.)",
+        "text": "[action][action]: You peer through an overgrown mirror and see an unfamiliar reflection. At the end of the round, choose another investigator in any group. That investigator may take 2 additional actions during his or her next turn. (Group limit once per game.)",
         "back_flavor": "Halls of corrugated steel and concrete fill this strange industrial complex. The numerous locked doors and dead ends fill you with a sense that you will never escape."
     },
     {
@@ -311,7 +311,7 @@
     },
     {
         "code": "70039",
-        "flavor": "A@ B# C% D< E+ F= G~ H> I&#092; J3 K7 L2 M6 N1 O9 P4 Q8 R5 S[survivor] T[willpower] U[cultist] V[elder_thing] W[intellect] X[tablet] Y[auto_fail] Z[elder_sign] 1T 2R 3H 4D 5U 6P 7Q 8Z 9B [action] [action]",
+        "flavor": "A@ B# C% D< E+ F= G~ H> I&#092; J3 K7 L2 M6 N1 O9 P4 Q8 R5 S[survivor] T[willpower] U[cultist] V[elder_thing] W[intellect] X[tablet] Y[auto_fail] Z[elder_sign] 1T 2R 3H 4D 5U 6P 7Q 8Z 9B [action][action]",
         "name": "에이소돌론의 쪽지",
         "text": "<b>Forced</b> - When you are defeated: Give control of Eixolodon's Note to another investigator.",
         "traits": "물품. 글귀."
