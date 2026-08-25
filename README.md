@@ -29,7 +29,7 @@ To have text spanning multiple lines, use `\n` to separate them. To have quotes 
 These can be used in a card's `text` section.
 
 * `[reaction]`
-* `[action]`
+* `[action]` (Multiple `[action]` icons in a row should not be space-separated)
 * `[fast]`
 * `[elder_sign]`
 * `[skull]`

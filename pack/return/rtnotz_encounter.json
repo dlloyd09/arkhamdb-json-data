@@ -50,7 +50,7 @@
         "quantity": 1,
         "shroud": 3,
         "subname": "Aberrant Gateway",
-        "text": "[action] [action]: Draw 3 cards. Only the lead investigator can activate this ability.<br/><b>Forced</b> - When an enemy attempts to spawn at a location that is not in play: Put that location into play and spawn that enemy there.",
+        "text": "[action][action]: Draw 3 cards. Only the lead investigator can activate this ability.<br/><b>Forced</b> - When an enemy attempts to spawn at a location that is not in play: Put that location into play and spawn that enemy there.",
         "type_code": "location"
     },
     {
